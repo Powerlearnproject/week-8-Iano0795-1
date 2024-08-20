@@ -42,11 +42,10 @@ Select a Sustainable Development Goal (SDG) that resonates with you and develop 
   - Excel dashboard demonstration.
 - **Delivery:** Present your pitch deck, demonstrating how your project addresses the SDG problem.
 
-## Deliverables (upload onto this repo)
+## Deliverables
 - SDG problem definition document
 - ERD
 - SQL scripts
 - Excel workbook with data analysis and dashboard
 - Integration documentation
-- Pitch deck presentation (Provide the link e.g Canva or Gamma in your documentation)
-
+- Pitch deck presentation
